@@ -8,7 +8,7 @@
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-000000?logo=three.js)](https://threejs.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-🚀 **Pruébalo ahora:** [https://xocostudio.github.io/Penzil-Pro-v3.6/](https://xocostudio.github.io/Penzil-Pro-v3.6/)
+🚀 **Pruébalo ahora:** [https://xocostudio.github.io/Penzil-Pro-v3.6/](https://xocostudio.github.io/Penzil-Pro-v4.5/)
 
 ---
 
